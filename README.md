@@ -303,3 +303,4 @@ Here's an example of compiling and using a test plugin:
 
 You can look at SDB's own command classes for some examples of things that you
 can do in your commands.
+#1#
